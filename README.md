@@ -198,7 +198,17 @@ This module allows admin to perform five major operations:
 
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
 
-![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
+![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)![Screenshot 2025-06-03 085409](https://github.com/user-attachments/assets/80154a06-f963-41b5-b95b-a8b211ab8f18)
+![Screenshot 2025-06-03 085355](https://github.com/user-attachments/assets/1584b4ec-714b-49c3-ac01-11c5f925922d)
+![Screenshot 2025-06-03 085334](https://github.com/user-attachments/assets/0ffceb90-43e4-4458-95a3-ce74497cc82d)
+![Screenshot 2025-06-03 085319](https://github.com/user-attachments/assets/e2dcf45f-84a2-4523-b2d9-71cfc41bf82f)
+![Screenshot 2025-06-03 085303](https://github.com/user-attachments/assets/5516269d-217a-40e7-b688-3e763a53125d)
+![Screenshot 2025-06-03 085246](https://github.com/user-attachments/assets/55793b2e-928b-49d9-8744-581a99eb67e0)
+![Screenshot 2025-06-03 085223](https://github.com/user-attachments/assets/eb08904a-b1b5-4b76-9a6b-d62bb2feec95)
+![Screenshot 2025-06-03 085205](https://github.com/user-attachments/assets/9b886667-cc9b-4ed1-a465-701d4f37393a)
+![Screenshot 2025-06-03 085131](https://github.com/user-attachments/assets/e320cd58-d763-439f-95bd-2c5d6146ce78)
+![Screenshot 2025-06-03 085113](https://github.com/user-attachments/assets/0c68e117-23b4-4ce9-b49a-e28e826e6573)
+
 
 
 
